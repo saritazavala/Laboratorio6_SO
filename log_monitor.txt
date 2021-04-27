@@ -1,0 +1,4 @@
+Inicio
+Realizando 5 threads
+Esperando ... 
+Final
