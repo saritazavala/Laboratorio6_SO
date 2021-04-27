@@ -6,10 +6,8 @@
 #include <pthread.h>
 
 #define THREADS 5
-
 pthread_mutex_t mutex;
 unsigned available_resources;
-
 
 
 int increase_count(int count){

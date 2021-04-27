@@ -1,0 +1,40 @@
+Hilo 29787 empezando
+Hilo 29787 empezando iteracion 1
+Hilo 29787 con el recurso
+Hilo 29787 recurso libre
+Hilo 1 empezando
+Hilo 1 empezando iteracion 1
+Hilo 1 con el recurso
+Hilo 1 recurso libre
+Hilo 2 empezando
+Hilo 2 empezando iteracion 2
+Hilo 2 con el recurso
+Hilo 2 recurso libre
+Hilo 13 empezando
+Hilo 13 empezando iteracion 2
+Hilo 13 con el recurso
+Hilo 13 recurso libre
+Hilo 115595786 empezando
+Hilo 115595786 empezando iteracion 3
+Hilo 115595786 con el recurso
+Hilo 115595786 recurso libre
+Hilo 9 empezando
+Hilo 9 empezando iteracion 3
+Hilo 9 con el recurso
+Hilo 9 recurso libre
+Hilo 16 empezando
+Hilo 16 empezando iteracion 4
+Hilo 16 con el recurso
+Hilo 16 recurso libre
+Hilo 19 empezando
+Hilo 19 empezando iteracion 4
+Hilo 19 con el recurso
+Hilo 19 recurso libre
+Hilo 66335716 empezando
+Hilo 66335716 empezando iteracion 5
+Hilo 66335716 con el recurso
+Hilo 66335716 recurso libre
+Hilo 741369 empezando
+Hilo 741369 empezando iteracion 5
+Hilo 741369 con el recurso
+Hilo 741369 recurso libre
